@@ -21,4 +21,4 @@ e. go to logout and check cookie is deleted in database
 
 ![logout](./public/img/caue1.png)
 
-![Cookie MongoDB](./public/img/datacaue2.png)
+![Cookie MongoDB](./public/img/data.png)
