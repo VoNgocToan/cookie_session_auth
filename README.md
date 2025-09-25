@@ -9,10 +9,8 @@ b. register
 ![Cookie MongoDB](./public/img/session.png)
 
 
-
-
 c. login
-![Login với Postman](./public/img//login.png)
+![Login với Postman](./public/img/login.png)
 Check in database
 ![Cookie MongoDB](./public/img/data.png)
 
