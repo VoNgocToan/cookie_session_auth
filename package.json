@@ -11,10 +11,19 @@
   "description": "",
   "dependencies": {
     "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
     "connect-mongo": "^5.1.0",
     "cookie-parser": "^1.4.7",
     "express": "^5.1.0",
     "express-session": "^1.18.2",
-    "mongoose": "^8.18.1"
-  }
+    "mongoose": "^8.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoNgocToan/cookie_session_auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VoNgocToan/cookie_session_auth/issues"
+  },
+  "homepage": "https://github.com/VoNgocToan/cookie_session_auth#readme"
 }
